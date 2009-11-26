@@ -1,0 +1,4 @@
+BatteryHelper
+=============
+
+BatteryHelper is a background application that will show an alert once your MacBook is running on reserve battery power. Pretty much like the OS X battery status alert. The only difference is that BatteryHelper does not show a menu bar item. I like my desktop to be as minimal as possible.
